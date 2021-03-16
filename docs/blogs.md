@@ -1,7 +1,9 @@
+---
 layout: page
-title: "Blogs I Wrote"
-permalink: /blogs/
+title: Blog
+permalink: /blog/
+---
 
-##Hey Saif! 
+## Hey Saif! 
 
 I hear you write fantastic blogs!
