@@ -7,3 +7,5 @@ permalink: /blog/
 ## Hey Saif! 
 
 I hear you write fantastic blogs!
+
+> Absolutely!
