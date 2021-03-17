@@ -21,11 +21,10 @@
 title: Technical Writer
 email: saaifk1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey, I'm Saif! A CS grad turned Technical Writer. I write blogs, documentation, 
-  website, and product copy. I'm pretty good with Content Strategy and Information Architecture too.
+  Thanks for visiting my personal website. Did you know I'm a Tech Writer and a Coder? 
+  Yeah! I build this site all by myself. Pretty amazing, huh?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SaaifkSaif
 github_username:  SaaifK
 linkedin_username: SaaifK 
 

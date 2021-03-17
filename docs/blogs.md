@@ -4,7 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
-## Hey Saif! 
+# Heading 1
+## Heading 2
 
 I hear you write fantastic blogs!
 
