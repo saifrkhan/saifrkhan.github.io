@@ -14,10 +14,10 @@ I have watched countless software engineers struggle to communicate with the bus
 My journey in tech began in the February of 2018 with [JoomShaper](https://www.joomshaper.com/){:target="_blank"} *(one of the pioneering companies in Joomla technology)* as a Technical Writer. [Continue reading...](/about) 
 
 ## Career Highlights
-- **Feb, 2013 - April, 2017** - Graduating with a BCSE degree in ***Software Engineering***. 
-- **May, 2017 - Jan 2018** - Joined Augmedix Inc as a ***Documentation Specialist***.  
-- **Feb, 2018 - Feb 2020** - Joined JoomShaper \| Themeum as a ***Technical Writer***.
-- **Mar, 2020 - Present** - Joined Axilweb as a ***Senior Content Strategist***. 
+- **Feb 2013 - April 2017** - Graduating with a BCSE degree in ***Software Engineering***. 
+- **May 2017 - Jan 2018** - Joined Augmedix Inc as a ***Documentation Specialist***.  
+- **Feb 2018 - Feb 2020** - Joined JoomShaper \| Themeum as a ***Technical Writer***.
+- **Mar 2020 - Present** - Joined Axilweb as a ***Senior Content Strategist***. 
 
 ## Documentations 
 ---
@@ -26,15 +26,15 @@ My journey in tech began in the February of 2018 with [JoomShaper](https://www.j
 
 | Product  | Description | Link | 
 | ------------- | ------------- | ------------- |
-| Tutor LMS  | Complete eLearning Management solution  | [Documetation](https://docs.themeum.com/tutor-lms/){:target="_blank"}  |
-| Qubely Blocks  | Full-fledge Gutenberg block creator plugin  | [Documetation](https://docs.themeum.com/qubely/){:target="_blank"}  |
-| SP Page Builder  | The most popular Joomla page builder  | [Documetation](https://www.joomshaper.com/documentation/sp-page-builder/sp-page-builder-3/){:target="_blank"}  |
-| WP Page Builder  | Complete WordPress page builder plugin  | [Documetation](https://docs.themeum.com/wp-pagebuilder/){:target="_blank"}  | 
-| WP Crowdfunding  | Let's you create a crowdfunding platform  | [Documetation](https://docs.themeum.com/wp-crowdfunding/){:target="_blank"}  |
-| WP Mega Menu  | Drag and drop menu builder for WordPress  | [Documetation](https://docs.themeum.com/wp-megamenu/){:target="_blank"}  |
+| Tutor LMS  | Complete eLearning Management solution  | [Documentation](https://docs.themeum.com/tutor-lms/){:target="_blank"}  |
+| Qubely Blocks  | Full-fledge Gutenberg block creator plugin  | [Documentation](https://docs.themeum.com/qubely/){:target="_blank"}  |
+| SP Page Builder  | The most popular Joomla page builder  | [Documentation](https://www.joomshaper.com/documentation/sp-page-builder/sp-page-builder-3/){:target="_blank"}  |
+| WP Page Builder  | Complete WordPress page builder plugin  | [Documentation](https://docs.themeum.com/wp-pagebuilder/){:target="_blank"}  | 
+| WP Crowdfunding  | Let's you create a crowdfunding platform  | [Documentation](https://docs.themeum.com/wp-crowdfunding/){:target="_blank"}  |
+| WP Mega Menu  | Drag and drop menu builder for WordPress  | [Documentation](https://docs.themeum.com/wp-megamenu/){:target="_blank"}  |
 
 I have a ton of works to showcase here. But writing code is pretty hard, so I'm procrastinating... 😴 Kindly check back later! 
 
-Yours truely,  
+Yours truly,  
 Saif Rahman  
 *Technical Writer | Coder | Entrepreneur*
