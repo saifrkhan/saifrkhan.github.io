@@ -11,7 +11,7 @@ list_title: ' '
 
 I have watched countless software engineers struggle to communicate with the business team and fail to voice their ideas. So, I didn’t rush to jump into a career in dev right after graduating college with a CS degree.   
 
-My journey in tech began in the February of 2018 with [JoomShaper](https://www.joomshaper.com/){:target="_blank"} *(one of the pioneering companies in Joomla technology)* as a Technical Writer. [Continue reading...](/about) 
+My journey in tech began in the February of 2018 with [JoomShaper](https://www.joomshaper.com/){:target="_blank"} *(one of the pioneering companies in Joomla technology)* as a Technical Writer. [Continue reading my story...](/about) 
 
 ## Career Highlights
 - **Feb 2013 - April 2017** - Graduating with a BCSE degree in ***Software Engineering***. 
