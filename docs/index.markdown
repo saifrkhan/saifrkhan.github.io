@@ -16,7 +16,7 @@ My journey in tech began in the February of 2018 with [JoomShaper](https://www.j
 ## Career Highlights
 - **Feb 2013 - April 2017** - Graduating with a BCSE degree in ***Software Engineering***. 
 - **May 2017 - Jan 2018** - Joined [Augmedix](https://augmedix.com/){:target="_blank"} as a ***Documentation Specialist***.  
-- **Feb 2018 - Feb 2020** - Joined [JoomShaper](https://www.joomshaper.com/){:target="_blank"} ([Themeum](https://www.themeum.com/){:target="_blank"}) as a ***Technical Writer***.
+- **Feb 2018 - Feb 2020** - Joined [JoomShaper](https://www.joomshaper.com/){:target="_blank"} (& [Themeum](https://www.themeum.com/){:target="_blank"}) as a ***Technical Writer***.
 - **Mar 2020 - Present** - Joined [Axilweb](https://www.axilweb.com/){:target="_blank"} as a ***Senior Content Strategist***.
 
 ## Documentations 
