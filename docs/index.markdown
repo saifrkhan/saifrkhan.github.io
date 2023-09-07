@@ -32,8 +32,8 @@ My journey in tech began in the February of 2018 with [JoomShaper](https://www.j
 | WP Page Builder  | Complete WordPress page builder plugin  | [Documentation](https://docs.themeum.com/wp-pagebuilder/){:target="_blank"}  | 
 | WP Crowdfunding  | Let's you create a crowdfunding platform  | [Documentation](https://docs.themeum.com/wp-crowdfunding/){:target="_blank"}  |
 | WP Mega Menu  | Drag and drop menu builder for WordPress  | [Documentation](https://docs.themeum.com/wp-megamenu/){:target="_blank"}  |
-| Axilweb | A technology company providing digital products and custom solutions to businesses  | [Website copy](https://axilweb.com/){:target="_blank"}  |
-| JoomShaper | A technology company building Joomla! plugins, frameworks, and templates for businesses  | [Website copy](https://web.archive.org/web/20200223145033/https://www.joomshaper.com/){:target="_blank"}  |
+| Axilweb | A technology company providing digital products <br> and custom solutions to businesses  | [Website copy](https://axilweb.com/){:target="_blank"}  |
+| JoomShaper | A technology company building Joomla! plugins, <br> frameworks, and templates for businesses  | [Website copy](https://web.archive.org/web/20200223145033/https://www.joomshaper.com/){:target="_blank"}  |
 
 
 I have a ton of works to showcase here. But writing code is pretty hard, so I'm procrastinating... 😴 Kindly check back later! 
