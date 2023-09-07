@@ -24,16 +24,16 @@ My journey in tech began in the February of 2018 with [JoomShaper](https://www.j
 
 *Please note: I was the sole contributor for the following docs from Feb 2018 to Feb 2020.*  
 
-| Product  | Description | URLs | 
+| Product  | Description | URL | 
 | ------------- | ------------- | ------------- |
-| Tutor LMS  | Complete eLearning management solution for WordPress | [Documentation](https://docs.themeum.com/tutor-lms/){:target="_blank"}<br>[Landing page copy](https://web.archive.org/web/20200424102159/https://www.themeum.com/product/tutor-lms/){:target="_blank"}<br>[Video script](https://www.youtube.com/watch?v=yGDwk4z9EEg){:target="_blank"}  |
+| Tutor LMS  | Complete eLearning management solution | [Documentation](https://docs.themeum.com/tutor-lms/){:target="_blank"}<br> [Landing page copy](https://web.archive.org/web/20200424102159/https://www.themeum.com/product/tutor-lms/){:target="_blank"}<br>[Video script](https://www.youtube.com/watch?v=yGDwk4z9EEg){:target="_blank"}  |
 | Qubely Blocks  | Full-fledge Gutenberg block creator plugin  | [Documentation](https://docs.themeum.com/qubely/){:target="_blank"} <br> [Landing page copy](https://web.archive.org/web/20200303182150/https://www.themeum.com/product/qubely/){:target="_blank"} |
-| SP Page Builder  | The most popular Joomla page builder  | [Documentation](https://www.joomshaper.com/documentation/sp-page-builder){:target="_blank"} <br> [Landing page copy](https://web.archive.org/web/20200301002459/https://www.joomshaper.com/page-builder){:target="_blank"}  |
+| SP Page Builder  | The most popular Joomla page builder  | [Documentation](https://www.joomshaper.com/documentation/sp-page-builder/sp-page-builder-3/){:target="_blank"} <br> [Landing page copy](https://web.archive.org/web/20200301002459/https://www.joomshaper.com/page-builder){:target="_blank"}  |
 | WP Page Builder  | Complete WordPress page builder plugin  | [Documentation](https://docs.themeum.com/wp-pagebuilder/){:target="_blank"}  | 
 | WP Crowdfunding  | Let's you create a crowdfunding platform  | [Documentation](https://docs.themeum.com/wp-crowdfunding/){:target="_blank"}  |
 | WP Mega Menu  | Drag and drop menu builder for WordPress  | [Documentation](https://docs.themeum.com/wp-megamenu/){:target="_blank"}  |
-| Axilweb | A technology company providing digital <br> products and custom solutions | [Website copy](https://axilweb.com/){:target="_blank"}  |
-| JoomShaper | #1 Joomla! plugins, frameworks, and <br> templates builder for businesses | [Website copy](https://web.archive.org/web/20200223145033/https://www.joomshaper.com/){:target="_blank"}  |
+| Axilweb | A custom software development company  | [Website copy](https://axilweb.com/){:target="_blank"}  |
+| JoomShaper | #1 Joomla! plugins and templates developer | [Website copy](https://web.archive.org/web/20200223145033/https://www.joomshaper.com/){:target="_blank"}  |
 
 
 I have a ton of works to showcase here. But writing code is pretty hard, so I'm procrastinating... 😴 Kindly check back later! 
