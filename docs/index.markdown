@@ -7,7 +7,7 @@ title: Saif Rahman Khan
 list_title: ' '
 ---
 
->**"Documentation is a love letter that you write to your future self."** - Damian Conwa 
+>**"Documentation is a love letter that you write to your future self."** - Damian Conway 
 
 I have watched countless software engineers struggle to communicate with the business team and fail to voice their ideas. So, I didn’t rush to jump into a career in dev right after graduating college with a CS degree.   
 
@@ -28,7 +28,7 @@ My journey in tech began in the February of 2018 with [JoomShaper](https://www.j
 | ------------- | ------------- | ------------- |
 | Tutor LMS  | Complete eLearning management solution | [Documentation](https://docs.themeum.com/tutor-lms/){:target="_blank"}<br> [Landing page copy](https://web.archive.org/web/20200424102159/https://www.themeum.com/product/tutor-lms/){:target="_blank"}<br>[Video script](https://www.youtube.com/watch?v=yGDwk4z9EEg){:target="_blank"}  |
 | Qubely Blocks  | Full-fledge Gutenberg block creator plugin  | [Documentation](https://docs.themeum.com/qubely/){:target="_blank"} <br> [Landing page copy](https://web.archive.org/web/20200303182150/https://www.themeum.com/product/qubely/){:target="_blank"} |
-| SP Page Builder  | The most popular Joomla page builder  | [Documentation](https://www.joomshaper.com/documentation/sp-page-builder/sp-page-builder-3/){:target="_blank"} <br> [Landing page copy](https://web.archive.org/web/20200301002459/https://www.joomshaper.com/page-builder){:target="_blank"}  |
+| SP Page Builder  | The most popular Joomla page builder  | [Documentation](https://www.joomshaper.com/documentation/sp-page-builder){:target="_blank"} <br> [Landing page copy](https://web.archive.org/web/20200301002459/https://www.joomshaper.com/page-builder){:target="_blank"}  |
 | WP Page Builder  | Complete WordPress page builder plugin  | [Documentation](https://docs.themeum.com/wp-pagebuilder/){:target="_blank"}  | 
 | WP Crowdfunding  | Let's you create a crowdfunding platform  | [Documentation](https://docs.themeum.com/wp-crowdfunding/){:target="_blank"}  |
 | WP Mega Menu  | Drag and drop menu builder for WordPress  | [Documentation](https://docs.themeum.com/wp-megamenu/){:target="_blank"}  |
